@@ -1,0 +1,14 @@
+User-Agent: *
+Disallow: /*/*/trackback/
+Disallow: /wp-admin/
+Disallow: /contact/
+Disallow: /page/
+Disallow: /wp-includes/
+Disallow: /wp-content/
+Disallow: /category/
+Disallow: /2009/a-new-website/trackback/
+Disallow: /2009/laughing-spirit/trackback/
+Disallow: /2009/mellow-mellotron/trackback/
+Disallow: /demos/
+Allow: /
+
